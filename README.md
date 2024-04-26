@@ -13,7 +13,7 @@ Clone the repository using the command
 ```bash
 git clone https://github.com/shaadclt/Invoice-Extractor-Gemini.git
 ```
-3. **Navigate to the Project Directory**:
+2. **Navigate to the Project Directory**:
 Move into the project directory by running
 ```bash
 cd Invoice-Extractor-Gemini
